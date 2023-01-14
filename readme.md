@@ -1,3 +1,6 @@
+## Hive and Hadoop compatible versions
+https://docs.qubole.com/en/latest/user-guide/engines/hive/use-hive-versions.html
+
 ## Install Hadoop 3.2.4
 https://www.youtube.com/watch?v=Slbi-uzPtnw
 <br>
